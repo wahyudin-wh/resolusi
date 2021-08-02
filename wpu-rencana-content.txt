@@ -1,5 +1,8 @@
 RENCANA KONTEN WPU
 
 - Javascript
+  ES6
+  Framwork Javascript
+  
 - PHP framwork
 - Interview
