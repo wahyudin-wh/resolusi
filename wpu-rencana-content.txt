@@ -3,7 +3,7 @@ RENCANA KONTEN WPU
 - Javascript
   ES6
   Framwork Javascript
-  
+   ^ Angular
+   ^ React
 - PHP framwork
 - Interview
-- Vlogs
